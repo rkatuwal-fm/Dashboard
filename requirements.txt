@@ -7,5 +7,5 @@ matplotlib
 ipywidgets
 IPython
 plotly-express
-plotlywidget 4.9.0
+plotly-widget
 voila
