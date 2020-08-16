@@ -5,4 +5,5 @@ numpy
 datetime
 matplotlib
 ipywidgets
+IPython
 voila
