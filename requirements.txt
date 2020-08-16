@@ -6,4 +6,5 @@ datetime
 matplotlib
 ipywidgets
 IPython
+plotly
 voila
