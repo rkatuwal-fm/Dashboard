@@ -1,3 +1,7 @@
 jupyterlab
-requests
+json
+pandas
+numpy
+datetime
+matplotlib
 voila
