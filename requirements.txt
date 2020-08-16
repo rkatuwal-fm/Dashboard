@@ -7,4 +7,5 @@ matplotlib
 ipywidgets
 IPython
 plotly-express
+plotly-graph_objects
 voila
