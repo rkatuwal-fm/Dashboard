@@ -1,4 +1,4 @@
-jupyterlab
+jupyterlab 0.32.1
 ujson
 pandas
 numpy
@@ -6,6 +6,6 @@ datetime
 matplotlib
 ipywidgets
 IPython
-plotly-express
-plotly-figure factory
+plotly 3.1.0
+plotlywidget 0.2.0
 voila
