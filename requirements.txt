@@ -7,5 +7,5 @@ matplotlib
 ipywidgets
 IPython
 plotly-express
-plotly
+plotly-figure_factory
 voila
