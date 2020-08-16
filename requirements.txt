@@ -6,6 +6,6 @@ datetime
 matplotlib
 ipywidgets
 IPython
-plotly 
-plotlywidget
+plotly-express
+plotlywidget 4.9.0
 voila
